@@ -1,0 +1,51 @@
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.exe
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.deps.json
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.runtimeconfig.json
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.runtimeconfig.dev.json
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.dll
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\ref\AplicatieSpital.dll
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.pdb
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\BazaDateSpital.dll
+C:\Users\dan\source\repos\AplicatieSpital\bin\Debug\net5.0-windows\BazaDateSpital.pdb
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.Form1.resources
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.GenerateResource.cache
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AssemblyInfoInputs.cache
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AssemblyInfo.cs
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.CoreCompileInputs.cache
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.CopyComplete
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.dll
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\ref\AplicatieSpital.dll
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.pdb
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.genruntimeconfig.cache
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AdaugareAngajat.resources
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AdaugarePacient.resources
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.FisaAngajat.resources
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.PacientFisa.resources
+C:\Users\dan\source\repos\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csprojAssemblyReference.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AdaugareAngajat.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AdaugarePacient.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.FisaAngajat.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.Form1.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.PacientFisa.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.Properties.Resources.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AssemblyInfoInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.AssemblyInfo.cs
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.exe
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.deps.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.runtimeconfig.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.runtimeconfig.dev.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\ref\AplicatieSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\AplicatieSpital.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\BazaDateSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\bin\Debug\net5.0-windows\BazaDateSpital.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csproj.CopyComplete
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\ref\AplicatieSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.genruntimeconfig.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\AplicatieSpital\obj\Debug\net5.0-windows\AplicatieSpital.csprojAssemblyReference.cache
