@@ -1,0 +1,22 @@
+C:\Users\dan\source\repos\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.deps.json
+C:\Users\dan\source\repos\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.dll
+C:\Users\dan\source\repos\BazaDateSpital\bin\Debug\net5.0\ref\BazaDateSpital.dll
+C:\Users\dan\source\repos\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.pdb
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.AssemblyInfoInputs.cache
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.AssemblyInfo.cs
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.csproj.CoreCompileInputs.cache
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.dll
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\ref\BazaDateSpital.dll
+C:\Users\dan\source\repos\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.deps.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\bin\Debug\net5.0\ref\BazaDateSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\bin\Debug\net5.0\BazaDateSpital.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.AssemblyInfoInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.AssemblyInfo.cs
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\ref\BazaDateSpital.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan\BazaDateSpital\obj\Debug\net5.0\BazaDateSpital.pdb
